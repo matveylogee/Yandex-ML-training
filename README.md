@@ -1,4 +1,5 @@
 # Яндекс. Тренировки. ML‑забег
 
 Репозиторий содержит домашние задания четвертых **Тренировок Яндекса по ML**.
-Сайт ML‑забега https://yandex.ru/yaintern/training/ml-training.
+
+Сайт и программа **ML‑забега**: https://yandex.ru/yaintern/training/ml-training.
